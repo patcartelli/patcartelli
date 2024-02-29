@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on Patrick cartelli</title>
+    <link>http://localhost:1313/tags/post/</link>
+    <description>Recent content in Post on Patrick cartelli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Buckle Up, Buckaroo</title>
+      <link>http://localhost:1313/posts/buckle-up-buckaroo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/buckle-up-buckaroo/</guid>
+      <description>Exciting! Brady O’Callahan invited me to create a mixtape for June 2023. Here’s the result and a clip from his newsletter:&#xA;Buckle Up, Buckaroo **_I just got to spend a long weekend in Cleveland and I feel pretty rejuvenated. The midwest is absolutely gorgeous in the summer, and I haven&amp;rsquo;t seen Cleveland like that in over a decade. There are few things better than driving around with the windows down on a beautiful day, listening to some good tunes.</description>
+    </item>
+  </channel>
+</rss>

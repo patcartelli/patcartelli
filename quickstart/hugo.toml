@@ -1,0 +1,4 @@
+baseURL = 'https://patcartelli.com/'
+languageCode = 'en-us'
+title = 'Patrick cartelli'
+Theme = "PATRICK"
